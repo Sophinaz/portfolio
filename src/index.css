@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.space{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+body{
+    /* background-color: rgb(7, 5, 15); */
+    background: url("./assets/5570834.jpg");
+    color: white;
+}
+
+h4{
+    font-weight: 100;
+}
