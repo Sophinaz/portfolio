@@ -6,7 +6,7 @@ import manage from "../assets/manage.png"
 
 const Projects = () => {
   return (
-    <div className='flex flex-wrap justify-around'>
+    <div name="projects" className='flex flex-wrap justify-around'>
         <div className='cursor-pointer mb-14 hover:bg-gray-800 p-2 bg-gray-950 border-2 rounded-xl space-y-5 w-2/5'>
             <img className=' w-full rounded-xl' src={educate} alt="" />
            

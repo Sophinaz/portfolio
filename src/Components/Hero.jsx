@@ -8,7 +8,7 @@ import telegram from "../assets/telegram.jpg"
 
 const Hero = () => {
   return (
-    <div className=' text-center flex justify-between align-middle'>
+    <div name="aboutme" className=' text-center flex justify-between align-middle'>
         <div className='cursor-pointer mx-8 hover:bg-gray-800  bg-gray-900 border-2 rounded-xl w-1/2'>
             
             <h1 className='text-3xl my-6 font-bold'>Sophonias Demiss</h1>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Education = () => {
   return (
-    <div className=' space-y-8'>
+    <div name="education" className=' space-y-8'>
         <div className=' cursor-pointer hover:bg-gray-800 border-2 rounded-xl space-y-4 p-6 bg-gray-900'>
             <h3>May 2022 - present</h3>
             <h1 className='text-3xl'>Bachelor of science in Electrical and Computer Engineering | Addis Ababa University</h1>

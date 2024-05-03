@@ -2,7 +2,7 @@ import React from 'react'
 
 const Experience = () => {
   return (
-    <div className=' space-y-6'>
+    <div name="experience" className=' space-y-6'>
         <div className=' space-y-6'>
             <h1 className=' font-bold text-3xl'>Developed a java chat app</h1>
             <p className=' text-lg font-light'>within a team of two, we developed a simple a java chat app with pure java including the user interface. 
