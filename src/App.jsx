@@ -17,7 +17,7 @@ const App = () => {
         <Experience />
         <Title title={"My Education"} subtitle={""}/>
         <Education />
-        <Title title={"Projects"} subtitle={"Hightlits of some of the things I have built"} />
+        <Title title={"Projects"} subtitle={"Hightlights of some of the things I have built"} />
         <Projects />
       </div>
     </div>
